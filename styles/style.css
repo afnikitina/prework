@@ -1,0 +1,24 @@
+/*
+Theme Name: Generic Website
+Description: Simple generic CSS file
+Authoor: Asya Nikitina
+Tags: Generic, Website
+*/
+
+/***** General Styles *****/
+
+/***** Header Styles *****/
+
+/***** Navigation Styles *****/
+
+/***** Footer Styles *****/
+
+/***** Classes and IDs *****/
+.wrapper {
+	width: 95%;
+	margin: auto;
+}
+.emphasis {
+	font-weight: bold;
+	color: #8B0000;
+}
